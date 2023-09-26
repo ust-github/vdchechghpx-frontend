@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  basePath: `https://vdchechghpx-backend-habitat-firstonere.dagility.com/`,
+  basePath: `https://vdchechghpx-backend-default.dagility.com/`,
 };
 
 /*
